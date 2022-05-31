@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jyotishmoy12
-- 👀 I’m interested in web devlopment
-- 🌱 I’m currently learning web devlopment
-- 💞️ I’m looking to collaborate on web devlopers
+- 👀 I’m interested in learning new things
+- 🌱 I’m currently learning web devlopment, c++ and DSA
 - 📫 How to reach me gmail- jyotishmoydeka62@gmail.com
 
 <!---
