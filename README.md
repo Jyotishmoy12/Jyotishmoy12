@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jyotishmoy12
+- 👋 Hi, I’m @Jyotishmoy Deka
 - 👀 I’m interested in learning new things
 - 🌱 I’m currently learning web devlopment, c++ and DSA
 - 📫 How to reach me gmail- jyotishmoydeka62@gmail.com
