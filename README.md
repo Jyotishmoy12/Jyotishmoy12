@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jyotishmoy Deka
+- 👋 Hi, I’m @Jyotishmoy Deka ✨
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning web devlopment, c++ and DSA
-- 📫 How to reach me gmail- jyotishmoydeka62@gmail.com
+- 💻 I’m currently learning web devlopment, c++ and DSA
+- 📩 How to reach me gmail- jyotishmoydeka62@gmail.com
 
 <!---
 Jyotishmoy12/Jyotishmoy12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
