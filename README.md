@@ -1,5 +1,5 @@
 # 💫 About Me:
-#include<introduction.h><br>#include<aboutme.h><br>using namespace std;<br>int main(){<br>     Cout<<"Konnichiwa, myself Jyotishmoy Deka"<<endl;<br>     cout<<"I am currently learning DSA a simple guy who thinks he can code ):<<endl;<br>return 0;<br>}<br>
+#include<introduction.h><br>#include<aboutme.h><br>using namespace std;<br>int main(){<br>     Cout<<"Konnichiwa, myself Jyotishmoy Deka"<<endl;<br>     cout<<"I am currently learning DSA):<<endl;<br>return 0;<br>}<br>
 
 
 ## 🌐 Socials:
