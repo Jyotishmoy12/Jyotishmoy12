@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotishmoy12" alt="jyotishmoy12" /></a> </p>
 
-- 🔭 I’m currently working on the IIT Guwahati Internship Project**
+- 🔭 I’m currently working on the IIT Guwahati Internship Project
 
 - 🌱 I’m currently learning **NextJs, Flask, SQLite**
 
