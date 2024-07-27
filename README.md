@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJs, Flask, SQLite**
 
-- 💬 Ask me about **React,JavaScript,Python**
+- 💬 Ask me about **C++, React, JavaScript, Python**
 
 - 📫 How to reach me **jyotishmoydeka62@gmail.com**
 
