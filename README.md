@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on Nothing :(
 
-- 🌱 I’m currently learning **NextJs, Flask, SQLite**
+- 🌱 I’m currently learning **Golang, FastAPI, AWS**
 
 - 💬 Ask me about **C++, React, JavaScript, Python**
 
