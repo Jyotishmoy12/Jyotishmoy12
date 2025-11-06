@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a full stack developer Intern @Cogeno Technologies<br><br>🌱 I’m currently learning Golang, FastAPI, AWS<br><br>💬 Ask me about C++, React, JavaScript, Python<br><br>📫 How to reach me jyotishmoydeka62@gmail.com<br><br>⚡ Fun fact I think I can Code LOL
+🔭 Full Stack Engineer @Cogeno Technologies<br><br>🌱 I’m currently learning Golang, FastAPI, AWS<br><br>💬 Ask me about C++, React, JavaScript, Python<br><br>📫 How to reach me jyotishmoydeka62@gmail.com<br><br>⚡ Fun fact I think I can Code LOL
 
 
 ## 🌐 Socials:
