@@ -1,11 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jyotishmoy%20Deka&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Engineer%20%7C%20Code%20Craftsman%20%7C%20Bug%20Creator%20%F0%9F%90%9B&descAlignY=55&descSize=16"/>
-</div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Engineer+%40+Cogeno+Technologies;React+%7C+Node+%7C+Python+%7C+C%2B%2B+Developer;Currently+learning+Go+%2B+FastAPI+%2B+AWS;Building+things+that+matter+%F0%9F%9A%80;I+think+I+can+code...+probably+%F0%9F%98…" alt="Typing SVG" />
-  </a>
+# Hi there, I'm Jyotishmoy Deka 👋
+### Full Stack Engineer | Bug Creator 🐛
+
 </div>
 
 <br/>
@@ -64,7 +61,6 @@ Contact:   jyotishmoydeka62@gmail.com
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -104,13 +100,11 @@ Contact:   jyotishmoydeka62@gmail.com
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/xT9IgG50Lg7ruszbFS/giphy.gif" width="250" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="250" />
 </div>
 
 <div align="center">
-  <sub>Writing code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; When it works first try &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Debugging at 3AM</sub>
+  <sub>Writing code &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Debugging at 3AM</sub>
 </div>
 
 ---
@@ -118,23 +112,7 @@ Contact:   jyotishmoydeka62@gmail.com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyotishmoy12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" height="180"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotishmoy12&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" height="180"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=jyotishmoy12&theme=tokyonight&hide_border=true" height="180"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=jyotishmoy12&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8"/>
 </div>
 
 ---
@@ -168,13 +146,8 @@ Contact:   jyotishmoydeka62@gmail.com
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
-</div>
-
-<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <br/>
   <i>"First, solve the problem. Then, write the code."</i>
   <br/><br/>
-  <b>⭐ Star my repos if you find them useful — it keeps me going! 🙏</b>
 </div>
