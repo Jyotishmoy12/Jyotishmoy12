@@ -25,7 +25,7 @@
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="max-width:380px"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
 </div>
 
 <br/>
@@ -103,7 +103,7 @@ Contact:   jyotishmoydeka62@gmail.com
 
 | Writing code | Debugging at 3AM |
 |:---:|:---:|
-| <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%" style="max-width:200px"/> | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100%" style="max-width:200px"/> |
+| <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180"/> | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180"/> |
 
 </div>
 
@@ -112,19 +112,15 @@ Contact:   jyotishmoydeka62@gmail.com
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyotishmoy12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,prs_merged,prs_merged_percentage" width="100%" style="max-width:480px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jyotishmoy12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotishmoy12&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotishmoy12&layout=compact&theme=tokyonight&hide_border=true" width="100%" style="max-width:380px"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jyotishmoy12&theme=tokyonight&hide_border=true" width="100%" style="max-width:480px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=jyotishmoy12&theme=tokyonight&hide_border=true" height="160"/>
 </div>
 
 ---
@@ -132,7 +128,7 @@ Contact:   jyotishmoydeka62@gmail.com
 ## ⭐ GitHub Trophies & Stars
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jyotishmoy12&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jyotishmoy12&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8" height="120"/>
 </div>
 
 <br/>
@@ -148,7 +144,7 @@ Contact:   jyotishmoydeka62@gmail.com
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotishmoy12&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotishmoy12&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
 </div>
 
 ---
@@ -159,7 +155,7 @@ Contact:   jyotishmoydeka62@gmail.com
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%"/>
   </picture>
 </div>
 
@@ -168,13 +164,13 @@ Contact:   jyotishmoydeka62@gmail.com
 ## 💡 Today's Dev Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
   <br/>
   <i>"First, solve the problem. Then, write the code."</i>
   <br/><br/>
