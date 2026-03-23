@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi there, I'm Jyotishmoy Deka 👋
-### Full Stack Engineer | Bug Creator 🐛
+### Full Stack Engineer @Cogneo Technologies
 
 </div>
 
@@ -20,35 +20,6 @@
   <img src="https://komarev.com/ghpvc/?username=jyotishmoy12&label=Profile+Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </div>
 
----
-
-## 🧑‍💻 About Me
-
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
-</div>
-
-<br/>
-
-```yaml
-Name:      Jyotishmoy Deka
-Role:      Full Stack Engineer
-Company:   Cogeno Technologies
-Location:  Guwahati, Assam 🇮🇳
-
-Expertise:
-  - C++, Python, JavaScript, TypeScript
-  - React, Next.js, Node.js
-
-Currently Grinding:
-  - Golang 🐹
-  - FastAPI ⚡
-  - AWS ☁️
-
-Status:    Probably debugging right now...
-Fun Fact:  I think I can code LOL 😂
-Contact:   jyotishmoydeka62@gmail.com
-```
 
 ---
 
@@ -93,85 +64,4 @@ Contact:   jyotishmoydeka62@gmail.com
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-181717?style=for-the-badge&logo=gitlab&logoColor=white)
 
-</div>
-
----
-
-## 😂 Me vs. My Code
-
-<div align="center">
-
-| Writing code | Debugging at 3AM |
-|:---:|:---:|
-| <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="180"/> | <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="180"/> |
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jyotishmoy12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyotishmoy12&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=jyotishmoy12&theme=tokyonight&hide_border=true" height="160"/>
-</div>
-
----
-
-## ⭐ GitHub Trophies & Stars
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jyotishmoy12&theme=tokyonight&no-frame=true&row=1&column=4&margin-w=8" height="120"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/jyotishmoy12?tab=repositories&sort=stargazers">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github-star-counter.workers.dev/user/jyotishmoy12&label=Total%20Stars&query=$.stars&color=FFD700&style=for-the-badge&logo=github&logoColor=white" alt="Total Stars"/>
-  </a>
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jyotishmoy12&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
-</div>
-
----
-
-## 🐍 My Contributions, Being Devoured
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-  </picture>
-</div>
-
----
-
-## 💡 Today's Dev Wisdom
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="70%"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="80"/>
-  <br/>
-  <i>"First, solve the problem. Then, write the code."</i>
-  <br/><br/>
 </div>
